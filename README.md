@@ -1,4 +1,4 @@
-# gmail-node-app
+# Gmail-Node-App
 
 1. Created a project using Node.js.
 
